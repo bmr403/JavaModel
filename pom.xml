@@ -1,5 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
 	<parent>
@@ -9,7 +8,7 @@
 	 <relativePath>../CoreProject/pom.xml</relativePath>
 	</parent>
 	
-	<version>${javamodel.version}</version>
+	<version>1.0</version>
 	<artifactId>JavaModel</artifactId>
 	<packaging>jar</packaging>
 	
@@ -18,7 +17,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/bmr403/JavaModel.git</connection>
 		
-	  <tag>${project.version}</tag>
+	  <tag>1.0</tag>
 	</scm> 
 	
 	<distributionManagement>
