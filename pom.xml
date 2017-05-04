@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<parent>
-	<groupId>multiModuleProject</groupId>
+	<groupId>multiModuleProject</groupId>	
 	<artifactId>CoreProject</artifactId>
 	 <version>${core.version}</version>
 	 <relativePath>../CoreProject/pom.xml</relativePath>
